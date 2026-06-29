@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation during the Romanes Lectures at the University of Oxford. The slide is titled \"Mortal Computation\" and discusses the kind of computation used by our brains. The slide outlines two big benefits if we abandon immortality and accept that knowledge is inextricably linked to the precise physical details of specific hardware: We can use very low power analog computation which parallelizes over trillions of weights represented as analog conductances. The hardware could be grown very cheaply instead of being manufactured very precisely.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

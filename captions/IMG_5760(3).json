@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image depicts a presentation slide on the topic of \"Mask R-CNN: instance segmentation.\" The slide is divided into several sections: Title and Authors: At the top left, there is a logo followed by the title \"Mask R-CNN: instance segmentation\" in bold white text on a blue background. Below the title, it mentions the authors: [He, Gkioxari, Dollar, Girshick] and the reference \"arXiv:1703.06870.\" Content Description: The slide explains that ConvNet produces an object mask for each region of interest",
+  "style_description": {
+    "aesthetics": "Graphic design, geometric abstraction.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

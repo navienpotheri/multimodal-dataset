@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation titled \"Auto-Regressive LLM. Inject predicted token in the input.\" The slide appears to be part of a lecture on machine learning, specifically focusing on auto-regressive language models (LLMs). The slide is designed with a clean layout, using a combination of text and diagrams to explain the concept. Title: \"Auto-Regressive LLM. Inject predicted token in the input\" Subheadings: Outputs one token after another through feed-forward prediction Tokens may represent words, image patches, speech segments... Predictor has a",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

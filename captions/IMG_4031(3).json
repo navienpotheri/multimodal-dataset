@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation with an orange background and white and black text. The title of the slide is \"Program synthesis from input/output pairs: overview.\" The slide is divided into two main sections, each comparing modern machine learning to program synthesis from I/O pairs. Title: \"Modern machine learning\" Model: \"differentiable parametric function\" Learning engine: \"SGD\" (Stochastic Gradient Descent) Feedback signal: \"loss function\" Key challenge: \"data (obtaining a dense sampling of the problem space)\"",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

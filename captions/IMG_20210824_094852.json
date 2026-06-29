@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image shows a flowchart on a piece of paper. The flowchart is titled \"Flowchart\" at the top left corner. It appears to be a technical diagram, likely used for programming or system design purposes. Start: The flowchart begins with a start symbol, indicating the beginning of the process. Read value to ADC and store as adc_data: This step involves reading an analog-to-digital converter (ADC) value and storing it in a variable named `adc_data`. Decision Point 1: A decision point checks if `adc_data` is",
+  "style_description": {
+    "aesthetics": "Graphic design, geometric abstraction.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

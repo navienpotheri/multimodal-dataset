@@ -1,0 +1,9 @@
+{
+  "high_level_description": "This image is a map of the United States that illustrates the number of days with comfortable weather across different regions. The title at the top of the image reads \"Number of Days with Comfortable Weather,\" followed by a subtitle specifying the criteria for \"comfortable weather\": daily high temperature between 60°F and 84°F, and daily maximum dewpoint temperature <=55°F. The map uses a color gradient to represent the number of days with comfortable weather, ranging from light pink (indicating fewer days) to dark red (indicating more days).",
+  "style_description": {
+    "aesthetics": "Photorealistic, personal archive.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

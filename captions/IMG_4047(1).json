@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a screenshot from an online lecture or presentation, likely from the University of Edinburgh, as indicated by the logo in the bottom right corner. The slide is titled \"A (Markovian) generative model,\" suggesting that the content is related to statistical modeling, specifically Markov models. Slide Content: The slide is divided into several sections with mathematical expressions and explanations. At the top, there's a formula for the joint probability \\( P(\\tilde{o}, \\tilde{s}, \\pi, \\gamma) \\), which is broken down into likelihood",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

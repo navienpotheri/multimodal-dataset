@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a screenshot from a presentation at MIT, as indicated by the MIT logo in the top right corner. The slide is titled \"What do language models know about color?\" and discusses the analysis of color word embeddings in language models. Slide Content: The slide is divided into two main sections: Title: \"What do language models know about color?\" Points: Measure distance between LLM embeddings of different color words. Find a 3D projection that best preserves distances. Below the points, there are two",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

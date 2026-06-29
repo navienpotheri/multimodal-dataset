@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation at MIT's Brain + Cognitive Sciences event. The slide is titled \"Towards models of generalized visual abstraction\" and poses the question: \"What is needed to build algorithms that emulate human production & comprehension of abstract (i.e., non-photorealistic) images?\" The slide features a diagram illustrating the concept of semantic ambiguity in visual abstraction. It shows a simplified representation of a robot or AI system on the left side, which receives an image of a bird. The image is stylized and abstract, not photorealistic.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

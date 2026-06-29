@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation titled \"PrivHAR: Recognizing Human Actions From Privacy-Preserving Lens.\" The slide compares different methods of recognizing human actions using privacy-preserving lenses. It includes five images labeled with the methods they represent: Low-resolution [1]: This image shows a person interacting with an object at a low resolution. The text below it states that this method loses information and significantly decreases action recognition. Defocus [2]: This image also shows a person interacting with an object but with a defocused effect.",
+  "style_description": {
+    "aesthetics": "Portrait photography, personal.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

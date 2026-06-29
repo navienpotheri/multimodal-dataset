@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation titled \"Robotic Manipulation with VFS.\" The slide discusses an approach that enables Value Function Space (VFS) to plan out complex robotic manipulation tasks using a model-based reinforcement learning (MBRL) algorithm. Title: The title at the top of the slide reads \"Robotic Manipulation with VFS.\" Main Text: The main body of the slide explains how the MBRL algorithm can be used to plan complex robotic manipulation tasks. It mentions that the MBRL algorithm uses a simple one-step predictive model",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

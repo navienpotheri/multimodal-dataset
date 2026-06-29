@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a text document discussing Hierarchical Reinforcement Learning (HRL). The text is written in a clear, formal tone, likely from an academic or technical paper. Here's a detailed description: Text Content: The text begins by introducing Hierarchical Reinforcement Learning (HRL) as a method for solving long-horizon reinforcement learning tasks. It explains that HRL aims to solve problems by reasoning over a bank of low-level skills, providing an abstraction for actions.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

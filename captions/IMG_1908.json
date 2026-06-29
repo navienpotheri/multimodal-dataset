@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image displays a mathematical equation written on a black background with white text. The equation is as follows: \\[ F(\\mu) = \\frac{1}{2} \\epsilon_s^\\top \\Sigma_s^{-1} \\epsilon_s + \\frac{1}{2} \\mu^\\top \\Sigma_\\mu^{-1} \\mu \\] Here's a detailed breakdown of the components of the image: Text: The equation is the primary focus of the image. It involves several mathematical symbols and variables: \\( F(\\mu) \\): This represents a function \\( F \\) that depends on a variable \\(",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

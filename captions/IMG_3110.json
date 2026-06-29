@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation with a black background and white text. It features a simple icon of a person on the left side, which appears to be a yellow emoji-like figure wearing a gray shirt and dark pants. The text on the slide reads: \"Self-Model = A State-Space Model of Self-States\" Below this main title, there is an additional line of text that explains: \"The agent includes a special partition of the state space:\" Following this explanation, there is a mathematical expression written as: **\\( x_t = [x_{\\text{self},t}, \\; x_{",
+  "style_description": {
+    "aesthetics": "Portrait photography, personal.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

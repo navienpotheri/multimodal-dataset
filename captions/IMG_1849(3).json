@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation titled \"VoxPoser for manipulation in the wild.\" The subtitle states, \"All trajectories are zero-shot synthesized,\" indicating that the robotic manipulations shown are generated without prior training on specific tasks. The slide features three images of a robotic arm performing different tasks: Left Image: The robotic arm is interacting with a tissue box and a plate of cookies. The text below the image reads, \"Take out a napkin.\" This suggests that the robot is being instructed to retrieve a tissue from the box.",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

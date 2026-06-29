@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation or document that outlines the formula structure for calculating an overall ranking score (R) based on various metrics. The slide is divided into two main sections: \"Formula Structure\" and \"Definitions and metrics.\" The formula at the top of the slide is quite complex and involves multiple summations and multiplications. It includes terms such as \\(UIS_i\\), \\(CQS_j\\), \\(LS_k\\), \\(RB\\), \\(QB\\), and \\(CSA_l\\). Each term is multiplied by specific weights (\\(w_i\\), \\(v_j\\), \\(x",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

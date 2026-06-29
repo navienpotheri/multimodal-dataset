@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation at the Reinforcement Learning Conference, as indicated by the logo in the top right corner. The slide is titled \"Runtime learning always wins over design-time learning\" and discusses the advantages of runtime learning over design-time learning. Slide Content: The slide lists several points comparing runtime learning to design-time learning: \"The world is much bigger than the agent (the Big World perspective)\" \"Design-time learning cannot cover every case\" \"Runtime learning can customize to the part of the world actually encountered\" \"Runtime learni...",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

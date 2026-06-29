@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from medium.com, displayed on a mobile device with the time at 11:10 and a 5G signal indicator. The content of the page discusses Large Language Models (LLMs) and their tendency to hallucinate, providing fictional answers to questions or instructions for which they have no good answer. The text explains that LLMs do not store verbatim any of the actual training data but only statistical connections between words, even if those connections are 500 words apart. It uses the example of GPT (a type of LLM) repeating the Gettysburg address",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

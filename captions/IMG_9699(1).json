@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation at the Reinforcement Learning Conference, as indicated by the logo in the top right corner. The slide is titled \"Designtime and runtime\" and discusses the process of designing and deploying agents in reinforcement learning. Slide Content: Title: \"Designtime and runtime\" Points: An agent is designed, and then sent out into the world to obtain reward. At design time, we build domain knowledge into the agent. At runtime, the agent learns from experience and makes plans specific to the subset of states",
+  "style_description": {
+    "aesthetics": "Graphic design, geometric abstraction.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

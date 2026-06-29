@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a graph titled \"ARC-AGI LEADERBOARD.\" It appears to be a performance comparison chart for various AI models or systems, likely in the context of artificial general intelligence (AGI). The x-axis represents the \"COST PER TASK ($)\" on a logarithmic scale, ranging from $1e-3 to $100. The y-axis represents the \"SCORE (%)\" ranging from 0% to 20%. The graph includes multiple data points representing different AI models, each labeled with their specific name and configuration: GPT-5 (High) GPT-5 (Medium)",
+  "style_description": {
+    "aesthetics": "Data visualization or infographic.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

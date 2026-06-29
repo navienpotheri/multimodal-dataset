@@ -1,0 +1,9 @@
+{
+  "high_level_description": "This image is a graphical representation of two trajectories: the \"Expected Trajectory\" and the \"Observed Trajectory.\" The background is entirely black, which makes the red and blue lines stand out prominently. Expected Trajectory: This is represented by a red line that starts at the bottom left corner and extends diagonally upwards to the top right corner. The label \"Expected Trajectory\" is written above this line in white text. Observed Trajectory: This is represented by a blue line that also starts at the bottom left corner but extends diagonally upwards to the top right corner.",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

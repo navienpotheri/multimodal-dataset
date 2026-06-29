@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a page from a scientific paper titled \"Hierarchical Reasoning Model.\" The paper is authored by Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, and Yasin Abbasi Yadkori, all affiliated with Sapient Intelligence, Singapore. The abstract discusses the challenges of reasoning in AI, particularly the limitations of current large language models (LLMs) that use Chain-of-Thought (CoT) techniques. These techniques are criticized for being brittle, requiring extensive data, and having high latency. Inspired by hierarchical and",
+  "style_description": {
+    "aesthetics": "Graphic design, geometric abstraction.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation or document that explains the components of two scoring systems: Link Scores (LS) and Relevance Boost (RB). The slide is structured with bullet points and mathematical equations to describe each component. LS (Link Scores) \\[ LS = x_1 \\cdot TrustedAnchors + x_2 \\cdot SiteLinkIn + x_3 \\cdot PageRank \\] TrustedAnchors: Definition: Quality and trustworthiness of inbound links. **SiteLinkIn",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

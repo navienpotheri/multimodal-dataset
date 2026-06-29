@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a screenshot from a presentation or lecture, likely related to a university course given the logo of \"The University of Edinburgh\" in the bottom right corner. The slide is divided into two main sections, each featuring an owl and some mathematical equations. Image: A barn owl perched on a branch. Text: Below the owl, it reads: \"Optimal action depends on states of the world.\" Equation: \\[ u_t^* = \\arg\\max V(s_{t+1} | u_t) \\\\ = \\pi(s",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

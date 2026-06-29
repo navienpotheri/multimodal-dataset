@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image contains a mathematical expression that defines the Euclidean distance between two vectors \\(\\mathbf{x}\\) and \\(\\mathbf{y}\\). The formula is as follows: \\[ d(\\mathbf{x}, \\mathbf{y}) = \\|\\mathbf{x} - \\mathbf{y}\\|_2 = \\sqrt{\\sum_{i=1}^{2048} (x_i - y_i)^2} \\] Text: The image displays a mathematical equation. It describes the Euclidean distance \\(d(\\mathbf{x}, \\mathbf{y})\\)",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

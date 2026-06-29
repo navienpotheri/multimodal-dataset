@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image depicts a presentation slide titled \"The Architecture of an AI system.\" The slide is divided into two main sections: the left side contains bullet points explaining the components of an AI system, and the right side features a diagram illustrating these components. Title: \"The Architecture of an AI system\" Bullet Points: Perception: estimates the state of the world (Vision, Speech, Audio) Agent: Prediction, Causal Inference; Planning, Reasoning, Working Memory Objective: Measures the agent's \"happiness\"; Agent acts to optimize the objective; Drives",
+  "style_description": {
+    "aesthetics": "Street or architectural photography.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

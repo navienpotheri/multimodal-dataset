@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a scatter plot titled \"Minutes to Train,\" which presents the results of MLPerf Training v5 for natural language processing tasks. The x-axis represents the time required to train (in minutes multiplied by GPUs), while the y-axis lists different types of accelerators used for training. Title and Subtitle: The title at the top reads \"Minutes to Train.\" Below the title, it states \"MLPerf Training v5 results.\" Axes: The x-axis is labeled \"Time to train [minutes * GPUs]\" and ranges from",
+  "style_description": {
+    "aesthetics": "Data visualization or infographic.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

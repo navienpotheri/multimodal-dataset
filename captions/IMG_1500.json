@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a high-level system overview of the generative UI implementation. It is a flowchart that illustrates the process from a user prompt to the final output displayed in the user's browser. Here is a detailed description: User Prompt: This is the starting point where the user provides an input or instruction. System Instructions: The user prompt is processed by the system instructions, which guide the subsequent steps. LLM (Large Language Model): The processed user prompt is fed into the LLM, which generates content based on the instructions provided. Tools: The LLM interacts with",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

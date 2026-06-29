@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation with a black background and white text. The title of the slide is \"8. Agents and causality (important distinction).\" Below the title, there are two main points: Reality has causality. Agents discover and exploit it. Following these points, there is an explanation about what it means for an agent to be causal: An agent is causal if: \\( p(s_{t+1} \\mid s_t, a_t) \\neq p(s_{t+1} \\mid s_t) \\) Action reveals counterfactual structure",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

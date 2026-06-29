@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image shows an open book resting on a red fabric with a patterned design. The book appears to be a technical or academic document, as indicated by the detailed text and diagrams. Here's a breakdown of the elements: Book Content: The text discusses the use of a microcontroller in a device for monitoring cardiac status. It mentions the amplification of signals, which is around 450 volts, and how this can be further enhanced for clearer and more accurate signal processing and analysis. The text references the Pan-Tompkins algorithm used for heart rate estimation, involving bandpass filtering",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

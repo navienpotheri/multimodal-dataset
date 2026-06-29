@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a slide or a section from an educational or informational presentation about Bayesian inference. The content is structured with bullet points and includes mathematical notation and explanations. Mathematical Notation: \\[ P(A|B) = \\frac{P(B|A) \\cdot P(A)}{P(B)} \\] This is Bayes' theorem, which is used to calculate the posterior probability \\( P(A|B) \\). Explanations: \\( P(A|B) \\) is described as the posterior probability, which is",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide or a piece of text that discusses the approximation processes of large language models (LLMs) and brains. Here's a detailed description: Text Content: The slide is divided into two main sections. The first section is labeled \"LLMs approximate:\" followed by the mathematical expression \\( p(\\text{text}_{t+1} \\mid \\text{text}_{\\leq t}) \\). The second section is labeled \"Brains approximate:\" followed by the mathematical expression \\( p(s_{t+1} \\mid s_t, a_t) \\).",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

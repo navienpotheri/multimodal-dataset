@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation during the Romanes Lectures at the University of Oxford. The slide is titled \"Digital computation\" and discusses the fundamental properties of current computers. Slide Content: The slide is divided into two main sections with bullet points. The first section states: \"A fundamental property of current computers is that we can run the same programs (or the same neural nets) on different physical pieces of hardware.\" This is followed by a sub-point: \"This means the knowledge contained in the program (or in the weights) is immortal: It is",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

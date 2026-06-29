@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a slide from a presentation or document. The background is white with black text, and the content is organized into a structured format. Title: \"3. F. 3. MOE Forecasting Interpretability\" Subtext: \"There are several ways to gain insight into how MoE works:\" Bullet Point: \"Gating network weights: By inspecting the gating network’s outputs, you can see which expert(s) were given the most weight for each prediction. This reveals when and why certain experts are trusted more.\" **",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

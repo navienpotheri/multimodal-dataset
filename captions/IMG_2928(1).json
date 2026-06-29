@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from marktechpost.com, displaying an article about the development of a new multilingual encoder called mmBERT. The page is titled \"Why was a new multilingual encoder needed?\" and discusses the dominance of XLM-RoBERTa (XLM-R) in multilingual NLP for over five years. It mentions that while encoder-only models like BERT and RoBERTa were central to early progress, most research energy shifted toward decoder-based generative models. However, encoders remain more efficient and often outperform decoders on embedding, retrieval, and classification tasks.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation during the Romanes Lectures at the University of Oxford. The slide is titled \"An example of the efficiency of analog computation: Computing the product of a vector of neural activities times a matrix of weights.\" It discusses two methods for performing computations. Method 1: Drive transistors at very high power to represent the bits in the digital representation of a number. Perform about 1000 one-bit digital operations to multiply two 32-bit numbers. Method 2: Implement neural activities as volt",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

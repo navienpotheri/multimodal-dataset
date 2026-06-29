@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from marktechpost.com, displaying an article about new training strategies introduced for a model called mmBERT. The page is titled \"What new training strategies were introduced?\" and discusses three main innovations that drive mmBERT's performance. Annealed Language Learning (ALL): Languages are introduced gradually (60 → 110 → 1833). Sampling distributions are annealed from high-resource to uniform. This ensures low-resource languages gain influence during later stages without overfitting limited data. **Inverse Masking Schedule",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

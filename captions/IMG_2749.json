@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation titled \"Generative Architectures DO NOT Work for Images and video\" by Y. LeCun. The slide discusses the challenges of using generative architectures for images and videos due to the unpredictability of the world and the need for models to represent multiple predictions. Title: Generative Architectures DO NOT Work for Images and video Points: Because the world is only partially predictable. A predictive model should represent multiple predictions. Probabilistic models are intractable in high-dim continuous domains. Generative Models",
+  "style_description": {
+    "aesthetics": "Photorealistic, personal archive.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

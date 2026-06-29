@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a flowchart on a piece of paper. The flowchart appears to be a step-by-step process or algorithm, likely related to programming or electronic circuitry. Here's a detailed description: Title: The word \"Flowchart\" is written at the bottom left corner of the paper. Content: The flowchart starts with an oval labeled \"Start.\" From the start, there is a box that says \"Read value to ADC and store as adc_data.\" Following this, there is a decision point (diamond shape) asking if `adc_data < 1",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

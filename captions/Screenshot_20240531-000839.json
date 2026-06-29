@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation or document that explains the concept of \"Relevance Boost\" (RB) in the context of information retrieval or natural language processing. The slide is structured with a title, a mathematical equation, and bullet points explaining each component. RB (Relevance Boost): Relevance boost based on query and content match \\( RB = TopicEmbedding + QnA + STS \\) TopicEmbedding: Relevance over time value. This suggests that the relevance score is influenced by how relevant the topic is",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

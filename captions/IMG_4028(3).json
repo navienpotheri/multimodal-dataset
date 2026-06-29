@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation with an orange background and white and yellow text. The title of the slide is \"The two poles of abstraction: type 1 vs type 2.\" The slide is divided into two main sections, each describing a different approach to abstraction. Title: Prototype-centric (value-centric) abstraction Description: A set of prototypes + distance function. Example: classify face vs. non-face using abstract features. Abstract w.r.t details not present in the prototypes. Obtained by clustering concrete samples into prototypes. This",
+  "style_description": {
+    "aesthetics": "Portrait photography, personal.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation on reinforcement learning, specifically highlighting \"3 Types of Reinforcement Learning.\" The slide is divided into two main sections: a horizontal axis labeled with different types of reinforcement learning methods and their sample efficiency, and a vertical section describing the characteristics of each type. Better Sample Efficient to the left. Less Sample Efficient to the right. Methods listed from left to right include: Model-based (100 time steps) Off-policy Q-learning (1 M time steps) Actor-critic **",
+  "style_description": {
+    "aesthetics": "Photorealistic, personal archive.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

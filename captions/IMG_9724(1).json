@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot from a presentation at the Reinforcement Learning Conference, as indicated by the logo in the top right corner. The slide is titled \"The OaK architecture involves the following steps (performed in parallel at runtime).\" It lists several steps involved in the OaK architecture, each with a corresponding bullet point: Learn the policy and the value function for maximizing reward. Generate new state features from existing state features. Rank-order the features. Create subproblems, one for each highly-ranked feature.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

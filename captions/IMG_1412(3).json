@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation on Q-Learning, a reinforcement learning algorithm. The slide is divided into two main sections: the left side contains textual information and diagrams, while the right side shows a person standing in front of a chalkboard. Title: \"Q-Learning\" is prominently displayed at the top. Text: \"State-action value function: Qπ(s,a)\" explains that it represents the expected return when starting in state s, performing action a, and following policy π. \"Expected return when starting in s, performing a, and following π\"",
+  "style_description": {
+    "aesthetics": "Portrait photography, personal.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

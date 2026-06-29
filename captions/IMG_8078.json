@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation with a black background and white text. The title of the slide is \"8. Why generalisation is so hard.\" Below the title, there is a list of bullet points explaining why generalization is challenging: unbounded novelty non-stationary processes nested causal layers reflexive agents multi-scale dynamics non-linear interactions At the bottom of the slide, it states: \"A fixed function approximator (like a static neural network) is inherently limited.\" The slide does not contain any images or illustrations; it is purely textual. The mood of the",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

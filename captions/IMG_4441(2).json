@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from the website runwayml.com. The content on the page discusses a language model called \"Autoregressive-to-Diffusion (A2D).\" The text explains that this model adapts an existing autoregressive vision language model for parallel diffusion decoding. It highlights that this approach makes it easy to unlock the speed-quality trade-off of diffusion language models without needing to train from scratch, by leveraging existing pretrained autoregressive models.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

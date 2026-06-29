@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from marktechpost.com, displaying information about the training data and phases used for mmBERT, a large language model. The content is structured into sections with headings and bullet points. Title: \"What training data and phases were used?\" Description: mmBERT was trained on 3 trillion tokens spanning 1,833 languages. Data sources include FineWeb2, Dolma, MegaWika v2, ProLong, StarCoder, and others. English makes up only ~10–34% of the corpus depending on the phase.",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

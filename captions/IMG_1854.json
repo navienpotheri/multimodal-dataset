@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a slide from a presentation, likely related to machine learning or artificial intelligence, given the mathematical equations and terminology used. Here is a detailed description: Text and Content: The title of the slide reads: \"But what about the Markov blanket?\" Below the title, there are two mathematical equations: \\(\\dot{\\mu} = (\\Gamma - Q) \\nabla_{\\mu} \\ln p(b | m)\\) \\(\\dot{a} = (\\Gamma - Q) \\nabla_{a} \\",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

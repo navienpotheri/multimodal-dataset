@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a split-screen presentation during what appears to be an academic or professional lecture. On the left side of the screen, there is a slide titled \"Fine-grained object categorization.\" The slide contains several elements: A colorful bird image with a pixelated effect, labeled as \"4224(+1) bird species.\" A graph showing the impact of training data quantity on accuracy, with two lines representing \"Web\" and \"CLIP-GT,\" both increasing over time. A bar chart comparing the portion of errors for \"Genus,\" \"Family,\" \"Order,\" and \"Class",
+  "style_description": {
+    "aesthetics": "Data visualization or infographic.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

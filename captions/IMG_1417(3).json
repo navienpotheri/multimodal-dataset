@@ -1,0 +1,9 @@
+{
+  "high_level_description": "This image is a slide from a presentation on Deep Q-Learning (DQN), which is a type of reinforcement learning algorithm. The slide is part of a lecture or educational material, likely from the Massachusetts Institute of Technology (MIT) as indicated by the logo at the bottom left corner. Title and Main Content: The title at the top reads \"DQN: Deep Q-Learning.\" Below the title, there is a statement: \"Use a neural network to approximate the Q-function.\" The mathematical equation \\( Q(s, a; \\theta) \\approx Q^",
+  "style_description": {
+    "aesthetics": "Graphic design, geometric abstraction.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

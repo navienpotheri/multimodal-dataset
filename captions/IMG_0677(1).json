@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a screenshot from a presentation at MIT, as indicated by the logo in the top right corner. The slide is titled \"What do LLMs know about vision?\" and discusses the capabilities of Large Language Models (LLMs) in understanding visual information. Slide Content: The slide is divided into several bullet points: \"Quite a lot!\" \"LLMs naturally learn representations that are somewhat aligned with vision.\" \"By optimizing for alignment, we can train LLMs that know even more about the visual world.\" \"Strong multi-modal",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

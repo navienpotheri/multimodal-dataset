@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a slide from a presentation or a document, focusing on a mathematical definition related to a biological Infomax AI. The slide is titled \"9. A Complete Mathematical Definition (Final Condensed Form)\" and contains a complex mathematical expression broken down into components. The main equation at the top of the slide reads: \\[ \\underbrace{\\mathbb{E}_{q_{\\phi}(Z|X)}[\\log p_{\\theta}(X|Z)]}_{\\text{prediction}} - \\underbrace{I(R;A)}_{\\text{active infom",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

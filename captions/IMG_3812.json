@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a screenshot from a PowerPoint presentation during an online meeting or webinar. The slide is titled \"PowerPoint Slide Show - Deep Inference (50min).pptx\" and is labeled as \"Slide 9 of 25.\" The slide contains two main sections with text and images. Text: \"Optimal action depends on states of the world\" Mathematical equations: \\[ u_{\\tau}^* = \\arg\\max V(s_{\\tau+1} | u_{\\tau}) \\] \\[ =",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

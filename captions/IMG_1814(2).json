@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a split-screen presentation slide during a lecture or seminar. On the left side of the screen, there is a slide titled \"Scene graph models are better at generalizing to novel compositions.\" The slide contains two examples of scene graphs: Top Left Example: A scene with two people sitting on a chair. The scene graph shows: \"person\" → \"sitting on\" → \"chair.\" Below this example, it states \"948 training examples.\" Top Right Example: A scene with a fire hydrant on a field. The",
+  "style_description": {
+    "aesthetics": "Data visualization or infographic.",
+    "lighting": "Low-light, nighttime or artificial lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

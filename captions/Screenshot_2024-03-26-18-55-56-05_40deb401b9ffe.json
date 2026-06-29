@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of a webpage from analyticsindiamag.com, displaying a graph and accompanying text about the computational requirements for AI-generated video production on platforms like TikTok and YouTube. Title: The graph is titled \"OpenAI's Sora Takes About 1...\" Axes: The x-axis is labeled \"Number of generated outputs\" and ranges from 0 to 10^7. The y-axis is labeled \"FLOPS\" (Floating Point Operations Per Second) and ranges from 10^15 to 10^23",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

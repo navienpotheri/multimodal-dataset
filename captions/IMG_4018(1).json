@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image appears to be a slide from a presentation or lecture, focusing on the concepts of \"Bayesian surprise\" and \"Infomax.\" The slide is divided into two main sections: Title and Main Text: The title at the top reads \"Bayesian surprise and Infomax.\" Below the title, there is a statement about \"Flat prior beliefs about outcomes,\" which is followed by a mathematical expression. The mathematical expression is: \\[ = E_{Q(a_t|\\pi)}[D[Q(s_t|o_t,\\pi) || Q(s_t|\\pi",
+  "style_description": {
+    "aesthetics": "Document or text-heavy image.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}

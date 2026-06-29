@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a diagram that illustrates the Bayesian formula for calculating the posterior probability of a parameter given some data. The formula is: \\[ p(\\theta | Data) = \\frac{p(Data | \\theta) p(\\theta)}{p(Data)} \\] This equation is central to Bayesian statistics, where \\( p(\\theta | Data) \\) represents the posterior probability of the parameter \\(\\theta\\) given the observed data, \\( p(Data | \\theta) \\) is the likelihood of the data given the parameter, \\( p(\\theta) \\) is the prior probability of the parameter before observing the data, and \\( p",
+  "style_description": {
+    "aesthetics": "Photorealistic, personal archive.",
+    "lighting": "Natural lighting.",
+    "medium": "Photograph.",
+    "color_palette": []
+  }
+}

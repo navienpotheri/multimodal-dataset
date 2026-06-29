@@ -1,0 +1,9 @@
+{
+  "high_level_description": "The image is a screenshot of an article from the website phys.org, dated Friday, May 23, at 10:53 AM. The content of the article discusses a computational tool developed by NCSU (North Carolina State University) for simulating electron behavior in materials using DOE's exascale machines like Frontier. The tool, called RMG (Real-Space Multigrids), uses a flexible grid structure to represent electron behavior in real space or 3D Euclidean space, allowing it to scale across powerful supercomputers. The article mentions that RMG is open-source, enabling other researchers to access",
+  "style_description": {
+    "aesthetics": "Digital screenshot, UI or software interface.",
+    "lighting": "Natural lighting.",
+    "medium": "Digital image.",
+    "color_palette": []
+  }
+}
